@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Usman Javed and I'm a Full-Stack Developer working with Ruby On Rails,<br>React, Vue, Node, Postgresql and Sql
+My name is Usman Javed and I'm a Full-Stack Developer working on Ruby On Rails,<br>React, Vue, Node, Postgresql and Sql
 
 
 ## 🌐 Socials:
